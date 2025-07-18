@@ -1,4 +1,4 @@
-name: Build v2rayNG APK
+name: Build v2rayNG APk 2
 
 on:
   push:
