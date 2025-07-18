@@ -3,7 +3,7 @@ name: Build v2rayNG APK
 on:
   push:
     branches:
-      - main
+      - master
   workflow_dispatch:
 
 jobs:
